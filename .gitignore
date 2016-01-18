@@ -3,8 +3,7 @@
 .idea
 .DS_Store
 
-# Build files
-build/
+
 
 # gulp modules
 node_modules/
